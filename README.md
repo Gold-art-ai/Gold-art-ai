@@ -3,7 +3,7 @@
 I'm a developer from **Rwanda 🇷🇼** passionate about building meaningful technology and turning ideas into real, working systems.
 
 I'm especially interested in **AI/ML, full-stack development, computer vision, and intelligent systems**.
-Currently learning, building, experimenting, and staying locked in. 🔒
+Currently learning, building and experimenting, all for making the World a better Place. 
 
 ### 🧰 Tech Stack
 
