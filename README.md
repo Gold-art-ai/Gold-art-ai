@@ -1,4 +1,4 @@
-# Hey, I'm Gold Ishara 👋🏾
+# Hey, I'm Ishara Gold 👋🏾
 
 I'm a developer from **Rwanda 🇷🇼** passionate about building meaningful technology and turning ideas into real, working systems.
 
