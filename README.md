@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Gold Ishara 👋🏾
 
-<!--
-**Gold-art-ai/Gold-art-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from **Rwanda 🇷🇼** passionate about building meaningful technology and turning ideas into real, working systems.
 
-Here are some ideas to get you started:
+I'm especially interested in **AI/ML, full-stack development, computer vision, and intelligent systems**.
+Currently learning, building, experimenting, and staying locked in. 🔒
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+
+**Languages**
+Python • JavaScript • C • C++ • Java • PHP • SQL
+
+**Web & Backend**
+React • Next.js • Three.js • Node.js • Express • NestJS • Tailwind CSS
+
+**AI / ML**
+TensorFlow • PyTorch • MediaPipe • scikit-learn • NumPy
+
+**Databases**
+PostgreSQL • MongoDB
+
+### 🚀 Favorite Projects
+
+🤟 **SynTok** — Sign-language translation combining AI, computer vision, a web application, and a gesture-recognition glove.
+
+🌱 **STEMSpark** — An AI-powered STEM mentor designed to help students learn and discover opportunities.
+
+💨 **RespiraIQ** — A web-based project exploring acoustic AI for respiratory health.
+
+👗 **Chillie** — A fashion-focused web application.
+
+### 🔭 Currently
+
+Building. Learning. Improving.
+
+**One project at a time. One problem at a time. 🔒**
