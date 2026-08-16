@@ -25,7 +25,6 @@ PostgreSQL • MongoDB
 
 🌱 **STEMSpark** — An AI-powered STEM mentor designed to help students learn and discover opportunities.
 
-💨 **RespiraIQ** — A web-based project exploring acoustic AI for respiratory health.
 
 👗 **Chillie** — A fashion-focused web application.
 
